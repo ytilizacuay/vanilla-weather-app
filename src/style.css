@@ -35,12 +35,13 @@ li:first-letter {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 8px;
+  color: #ededed;
 }
 .overview {
   margin-bottom: 20px;
 }
 .weather-temperature img {
-  background-color: green;
+  background-color: #dfdfdf;
   border-radius: 50%;
   margin-right: 10px;
   height: 64px;
