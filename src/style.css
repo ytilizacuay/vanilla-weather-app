@@ -40,6 +40,8 @@ li:first-letter {
   margin-bottom: 20px;
 }
 .weather-temperature img {
+  background-color: #f6f6f6;
+  border-radius: 50%;
   margin-right: 10px;
   height: 64px;
   width: 64px;
